@@ -1,1 +1,2 @@
-ndnd
+#!/bin/bash
+ndndn

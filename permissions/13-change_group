@@ -1,0 +1,2 @@
+#!/bin/bash
+mv school hello chmod u+rw 

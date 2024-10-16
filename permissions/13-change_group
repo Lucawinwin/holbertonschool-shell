@@ -1,2 +1,2 @@
 #!/bin/bash
-mv school hello chmod u+rw 
+chgrp school hello 

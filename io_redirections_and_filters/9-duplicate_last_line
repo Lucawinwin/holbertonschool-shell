@@ -1,0 +1,2 @@
+#!/bin/bash
+derniere_ligne=$(tail -n 1 iacta)

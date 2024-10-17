@@ -1,2 +1,2 @@
 #!/bin/bash
-grep .x, --3-iactai
+head -n 3 iacta | tail -n 1

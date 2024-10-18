@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo $TEST_VAR 
+set | grep TEST_VAR 

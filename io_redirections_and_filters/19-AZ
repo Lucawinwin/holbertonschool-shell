@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "A Cat and a Cap" | sed -e 's/A/Z/g' -e 's/C/e/g'

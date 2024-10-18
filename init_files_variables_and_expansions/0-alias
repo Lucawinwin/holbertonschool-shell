@@ -1,2 +1,2 @@
 #!/bin/bash 
-alias p="pwd"; l="ls -al"
+alias ls = ls -rm*
